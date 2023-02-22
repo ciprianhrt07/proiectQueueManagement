@@ -1,0 +1,195 @@
+Task-urile generate sunt: 
+Task{ID=1, arrivalTime=3, serviceTime=4}
+Task{ID=4, arrivalTime=4, serviceTime=3}
+Task{ID=3, arrivalTime=7, serviceTime=3}
+Task{ID=2, arrivalTime=15, serviceTime=2}
+Main thread says La pasul :0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :1
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :2
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :3
+Task-ul Task{ID=1, arrivalTime=3, serviceTime=4} a fost adaugat la coada 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:Task{ID=1, arrivalTime=3, serviceTime=4} and waiting perioad is 4
+Main thread says La pasul :4
+Task-ul Task{ID=4, arrivalTime=4, serviceTime=3} a fost adaugat la coada 1
+Thread: Queue 1 : is going to do:Task{ID=4, arrivalTime=4, serviceTime=3} and waiting perioad is 3
+Thread: Queue 0 : is going to do:Task{ID=1, arrivalTime=3, serviceTime=3} and waiting perioad is 3
+Main thread says La pasul :5
+Thread: Queue 0 : is going to do:Task{ID=1, arrivalTime=3, serviceTime=2} and waiting perioad is 2
+Thread: Queue 1 : is going to do:Task{ID=4, arrivalTime=4, serviceTime=2} and waiting perioad is 2
+Main thread says La pasul :6
+Thread: Queue 1 : is going to do:Task{ID=4, arrivalTime=4, serviceTime=1} and waiting perioad is 1
+Thread: Queue 0 : is going to do:Task{ID=1, arrivalTime=3, serviceTime=1} and waiting perioad is 1
+Main thread says La pasul :7
+Task-ul Task{ID=3, arrivalTime=7, serviceTime=3} a fost adaugat la coada 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:Task{ID=3, arrivalTime=7, serviceTime=3} and waiting perioad is 3
+Main thread says La pasul :8
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:Task{ID=3, arrivalTime=7, serviceTime=2} and waiting perioad is 2
+Main thread says La pasul :9
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:Task{ID=3, arrivalTime=7, serviceTime=1} and waiting perioad is 1
+Main thread says La pasul :10
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :11
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :12
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :13
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :14
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :15
+Task-ul Task{ID=2, arrivalTime=15, serviceTime=2} a fost adaugat la coada 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:Task{ID=2, arrivalTime=15, serviceTime=2} and waiting perioad is 2
+Main thread says La pasul :16
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:Task{ID=2, arrivalTime=15, serviceTime=1} and waiting perioad is 1
+Main thread says La pasul :17
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :18
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :19
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :20
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :21
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :22
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :23
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :24
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :25
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :26
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :27
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :28
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :29
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :30
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :31
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :32
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :33
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :34
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :35
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :36
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :37
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :38
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :39
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :40
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :41
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :42
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :43
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :44
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :45
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :46
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :47
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :48
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :49
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :50
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :51
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :52
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :53
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :54
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :55
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :56
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :57
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :58
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :59
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+Main thread says La pasul :60
+Thread: Queue 1 : is going to do:null and waiting perioad is 0
+Thread: Queue 0 : is going to do:null and waiting perioad is 0
+ Ora de varf a fost : 4
+ Average waiting time : 7.0
+ Average service time : 10.0
